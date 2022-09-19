@@ -1,0 +1,6 @@
+hw1indexing.txt
+hw1req1.txt
+hw1req2.txt
+hw1nodepth.txt
+hw1depth.txt
+hw1srgb.txt

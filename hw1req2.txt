@@ -1,0 +1,19 @@
+png 40 40 hw1req2.png
+
+rgb 255 0 0
+xyzw -8.9 -8.85 0 10
+rgb 0 255 0
+xyzw -4.8 9.75 0 10
+rgb 0 0 0
+xyzw 0.3 0.35 0 10
+
+tri 1 2 3
+
+rgb 255 0 0
+xyzw -4.3 9.75 0 10
+rgb 0 0 255
+xyzw 0.55 0.1 0 10
+rgb 0 0 0
+xyzw 9.9 0.1 0 10
+
+tri 4 5 6
